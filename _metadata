@@ -1,6 +1,16 @@
 {
+  "author" : "patman",
+  "description" : "scrambles every png and ogg . you're welcome",
+  "friendlyName" : "asset scrambler",
+  "link" : "steam://url/CommunityFilePage/3703414215",
+  "name" : "pat_assetscrambler",
   "priority" : 1.79769e+308,
   "scripts" : {
     "postLoad" : ["/pat_assetscrambler.lua"]
-  }
+  },
+  "steamContentId" : "3703414215",
+  "steamDescription" : "scrambles every png and ogg . you're welcome\n\nrequires [url=https://github.com/OpenStarbound/OpenStarbound]OpenStarbound[img]https://i.imgur.com/GlY6bda.png[/img][/url]\n\nthis uses like 10gb of memory on my test instance lol \n\n\n[img]https://i.imgur.com/wXjYMqP.gif[/img]https://discord.gg/GdsQSgV\n[img]https://i.imgur.com/uyG8oTa.gif[/img]https://www.patreon.com/pathiccstar\n[img]https://i.imgur.com/xVfcRRH.gif[/img]https://ko-fi.com/patmanf\n[img]https://i.imgur.com/jJAj6jF.gif[/img]https://github.com/bongus-jive/asset-scrambler",
+  "steamTitle" : "asset scramber [OpenSB]",
+  "tags" : "Miscellaneous",
+  "version" : "1.0"
 }
